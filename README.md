@@ -1,6 +1,6 @@
 #  Ernesto Floriano Amorim
 
-Olá! 👋 Eu sou Ernesto Amorim, um desenvolvedor web apaixonado por criar soluções criativas e eficientes. Atualmente, estou cursando desenvolvimento de software multiplataforma na Fatec Zona Leste.
+Olá! 👋 Eu sou Ernesto Amorim, um desenvolvedor web que adora criar soluções criativas e eficientes. Atualmente, estou cursando desenvolvimento de software multiplataforma na Fatec Zona Leste.
 
 🚀 Estou interessado em áreas como desenvolvimento web e aplicativos móveis. Trabalho principalmente com JavaScript, React e Node.js, mas estou sempre aberto a aprender novas tecnologias e explorar novas áreas.
 
