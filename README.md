@@ -1,5 +1,8 @@
 #  Ernesto Floriano Amorim
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernesto-amorim/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ernestoamorim.vercel.app)
+
 Olá! 👋 Eu sou Ernesto Amorim, um desenvolvedor web que adora criar soluções criativas e eficientes. Atualmente, estou cursando desenvolvimento de software multiplataforma na Fatec Zona Leste.
 
 🚀 Estou interessado em áreas como desenvolvimento web e aplicativos móveis. Trabalho principalmente com JavaScript, React e Node.js, mas estou sempre aberto a aprender novas tecnologias e explorar novas áreas.
